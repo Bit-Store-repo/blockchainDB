@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Bit-Store-repo/blockchainDB#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "nodemon": "^2.0.16"
   }
 }
