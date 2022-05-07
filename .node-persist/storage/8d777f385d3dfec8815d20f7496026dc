@@ -1,0 +1,1 @@
+{"key":"data","value":[{"data":"genesis-block","prev_hash":"0","time_stamp":1,"hash":"NOHASH"},{"data":"this is some data","prev_hash":"NOHASH","time_stamp":1651950988700,"hash":"000800626c2e1ab7f10aa6d01af45385ad0db949b18e7711e5a5482fac9ad548","nonce":3725,"key":"thisisakey"}]}

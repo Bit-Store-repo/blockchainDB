@@ -4,3 +4,5 @@ const GENESIS_BLOCK = {
     data: "genesis-block",
     time_stamp: 1,
 }
+
+module.exports = { GENESIS_BLOCK };
