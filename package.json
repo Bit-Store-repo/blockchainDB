@@ -1,0 +1,24 @@
+{
+  "name": "blockchaindb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bit-Store-repo/blockchainDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bit-Store-repo/blockchainDB/issues"
+  },
+  "homepage": "https://github.com/Bit-Store-repo/blockchainDB#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
